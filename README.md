@@ -4,7 +4,7 @@ Identifying division of labor strategies in microbial community metabolism, unde
 
 Prescriptive Analytics for Reducing 30-day Hospital Readmissions after General Surgery, under review.
 
-Predicting diabetes-related hospitalizations based on Electronic Health Records, under review.
+Predicting diabetes-related hospitalizations based on Electronic Health Records, Statistical Methods in Medical Research, 2018.
 
 "Predicting chronic disease hospitalizations from electronic health records: an interpretable classification approach", Proceedings of the IEEE, 2018.
 
