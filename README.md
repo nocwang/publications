@@ -19,5 +19,5 @@ Predicting diabetes-related hospitalizations based on Electronic Health Records,
 "Strong consistency of parameter estimates for purely explosive autoregressive models with exogenous inputs", Proceedings of the 33rd Chinese Control Conference, 2014.
 
 ## Thesis Prospectus
-### Analytics and Optimization Methods in Biomedical Systems: From Microbes to Humans 
+Analytics and Optimization Methods in Biomedical Systems: From Microbes to Humans 
 
