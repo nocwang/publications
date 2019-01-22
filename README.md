@@ -4,7 +4,7 @@
 
 Identifying division of labor strategies in microbial community metabolism, under review.
 
-Antimicrobial Resistance Prediction in eICU, under review.
+Predicting Antimicrobial Resistance in the Intensive Care Unit, under review.
 
 Prescriptive Analytics for Reducing 30-day Hospital Readmissions after General Surgery, under review.
 
