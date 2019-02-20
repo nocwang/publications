@@ -16,7 +16,7 @@ Readmission prediction after general surgery in a tertiary safety-net academic m
 
 ## Conference
 
-Prescriptive Cluster-Dependent Support Vector Machines with an Application to Reducing Hospital Readmissions, under review.
+Prescriptive Cluster-Dependent Support Vector Machines with an Application to Reducing Hospital Readmissions, IEEE European Control Conference, 2019.
 
 A joint sparse clustering and classification approach with applications to hospitalization prediction, IEEE 55th Conference on Decision and Control, 2016.
 
