@@ -2,7 +2,7 @@
 
 ## Journal
 
-Identifying division of labor strategies in microbial community metabolism, under review.
+Identifying division of labor strategies in microbial community metabolism, mSystems, 2019.
 
 Predicting Antimicrobial Resistance in the Intensive Care Unit, under review.
 
@@ -15,6 +15,8 @@ Predicting chronic disease hospitalizations from electronic health records: an i
 Readmission prediction after general surgery in a tertiary safety-net academic medical center, under review.
 
 ## Conference
+
+Convergence of Parameter Estimates for Regularized Mixed Linear Regression Models, under review.
 
 Prescriptive Cluster-Dependent Support Vector Machines with an Application to Reducing Hospital Readmissions, IEEE European Control Conference, 2019.
 
