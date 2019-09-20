@@ -16,7 +16,7 @@ Readmission prediction after general surgery in a tertiary safety-net academic m
 
 ## Conference & Workshop
 
-Convergence of Parameter Estimates for Regularized Mixed Linear Regression Models, under review.
+Convergence of Parameter Estimates for Regularized Mixed Linear Regression Models, IEEE 58th Conference on Decision and Control,2019.
 
 Prescriptive Cluster-Dependent Support Vector Machines with an Application to Reducing Hospital Readmissions, IEEE European Control Conference, 2019.
 
