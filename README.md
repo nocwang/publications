@@ -24,7 +24,7 @@ A joint sparse clustering and classification approach with applications to hospi
 
 Classification in the Presence of Hidden Clusters with an Application in Hospitalization Prediction, 2015 Workshop on Machine Learning in Healthcare, December 11, 2015, Montreal, Canada.
 
-A Joint Clustering and Classifcation Approach for Healthcare Predictive Analytics, 2nd Workshop on Data Mining for Medical Informatics (DMMI 2015), November 14th, 2015, San Francicso, California.
+A Joint Clustering and Classification Approach for Healthcare Predictive Analytics, 2nd Workshop on Data Mining for Medical Informatics (DMMI 2015), November 14th, 2015, San Francicso, California.
 
 Strong consistency of parameter estimates for purely explosive autoregressive models with exogenous inputs, Proceedings of the 33rd Chinese Control Conference, 2014.
 
