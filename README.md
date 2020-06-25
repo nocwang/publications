@@ -1,6 +1,11 @@
 # Publications
 
 ## Journal
+Early prediction of level-of-care requirements in patients with COVID-19: A multi-center case series, under review.
+
+Predictive Models of Mortality for Hospitalized COVID-19 Patients: A Retrospective Cohort Study, under review.
+
+Predictive models of pregnancy based on data from a preconception cohort study, in preparation.
 
 Identifying division of labor strategies in microbial community metabolism, mSystems, 2019.
 
