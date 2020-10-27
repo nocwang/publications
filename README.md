@@ -1,17 +1,17 @@
 # Publications
 
 ## Journal
-Early prediction of level-of-care requirements in patients with COVID-19: A multi-center case series, under review.
+Early prediction of level-of-care requirements in patients with COVID-19, eLife, 2020.
 
-Predictive Models of Mortality for Hospitalized COVID-19 Patients: A Retrospective Cohort Study, under review.
+Prescriptive analytics for reducing 30-day hospital readmissions after general surgery, PloS one, 2020.
+
+Predictive Models of Mortality for Hospitalized Patients With COVID-19: Retrospective Cohort Study, JMIR Medical Informatics, 2020.
 
 Predictive models of pregnancy based on data from a preconception cohort study, in preparation.
 
 Identifying division of labor strategies in microbial community metabolism, mSystems, 2019.
 
 Predicting Antimicrobial Resistance in the Intensive Care Unit, under review.
-
-Prescriptive Analytics for Reducing 30-day Hospital Readmissions after General Surgery, under review.
 
 Predicting diabetes-related hospitalizations based on Electronic Health Records, Statistical Methods in Medical Research, 2018.
 
@@ -30,8 +30,6 @@ A joint sparse clustering and classification approach with applications to hospi
 Classification in the Presence of Hidden Clusters with an Application in Hospitalization Prediction, 2015 Workshop on Machine Learning in Healthcare, December 11, 2015, Montreal, Canada.
 
 A Joint Clustering and Classification Approach for Healthcare Predictive Analytics, 2nd Workshop on Data Mining for Medical Informatics (DMMI 2015), November 14th, 2015, San Francicso, California.
-
-Strong consistency of parameter estimates for purely explosive autoregressive models with exogenous inputs, Proceedings of the 33rd Chinese Control Conference, 2014.
 
 ## Thesis Prospectus
 Analytics and Optimization Methods in Biomedical Systems: From Microbes to Humans 
